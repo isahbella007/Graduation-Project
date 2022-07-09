@@ -1,11 +1,11 @@
-# Graduation-Project
-About this Project
+
+### About this Project
 The aim of the project is to develop a centralized food ordering system which will provide easy
 access to both restaurant owners and customers. This system will bridge the gap between big
 restaurants and smaller ones who are limited by advertisement and web-presence resources; since
 all restaurants would be able to register, advertise and sell their food on the platform.
 
-How to run  this Project
+### How to run  this Project
  
 Download a local host server preferably XAMPP. Open the xampp folder, then htdocs and delete the initial files and folders.
 Copy the onlinefoods folder and paste in this folder. 
